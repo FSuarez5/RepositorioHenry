@@ -16,7 +16,7 @@ colores.push("rojo");
 colores.unshift("verde");
 colores.pop();
 colores.shift();
-console.log(colores);*/
+console.log(colores);
 
 var pintores = ["Picasso", "Velazquez", "Van Gogh", "Dali"];
 var incluyeDali = pintores.includes("Monet");

@@ -1,12 +1,12 @@
-var expr = "Poronguín"
+var expr = "Abecedario"
 
 switch (expr) {
-  case "Pito":
-    console.log("Poronga")
+  case "Abecedario":
+    console.log("Genial!")
     break;
-  case "Poronguín":
+  case "¿Sos buenísimo?":
     console.log("Soy buenísimo")
     break;
   default:
-    console.log("No sos buenisimo.")
+    console.log("No soy buenisimo.")
 }
